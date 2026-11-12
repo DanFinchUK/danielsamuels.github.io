@@ -15,12 +15,12 @@ I picked up chess during COVID (urgh), and have enjoyed it ever since. I was the
 My first foray into the new world of "vibe coding". I used Replit for this and didn't write a single line of code. This is what got me hooked with LLMs. Seeing the capability and understanding the possibility led me to diving head-first into local LLMs, cloud-hosted models and everything related to GenAI.
 
 ### Incremental Capitalism
-[Github](https://github.com/DanFinchUK/incremental-capitalism) - [Website](https://danielsamuels.co.uk/incremental-capitalism/)
+[Github](https://github.com/DanFinchUK/incremental-capitalism) - [Website](https://danfinchuk.github.io/incremental-capitalism/)
 
 An incremental game written in VueJS 2 and VueX 2.  I got an itch to make an incremental after playing [Egg, Inc.](https://play.google.com/store/apps/details?id=com.auxbrain.egginc&hl=en) and spent a weekend putting it together.
 
 ### Rocket League Replays
-[Github](https://github.com/DanFinchUK/rocket-league-replays) - [Website](http://www.rocketleaguereplays.com/)
+[Github](https://github.com/DanFinchUK/rocket-league-replays) - [Archived Website](https://web.archive.org/web/20190118212755/https://www.rocketleaguereplays.com/)
 
 I wrote a custom binary file parser for the Rocket League replay format and then created a database and analysis tool to store all of the information.
 
@@ -34,31 +34,31 @@ While building this website I wanted a method of converting HTML-based blog arti
 
 ### Slack Slash Commands as a Service
 
-[Github](https://github.com/DanFinchUK/sscaas/) - [Website](https://sscaas.eu/) - [Twitter](https://twitter.com/sscaas)
+[Github](https://github.com/DanFinchUK/sscaas/) - [Archived Website](https://web.archive.org/web/20180326072203/http://sscaas.eu/) - [Twitter](https://twitter.com/sscaas)
 
-We use Slack at [Onespacemedia](http://www.onespacemedia.com), it's awesome, [it's changed the way we communicate](/words/2015/05/14/how-we-use-slack-at-onespacemedia/) and over time we've extended its functionality with various slash commands.  Originally these slash commands ran on a small server in my house, but I realised that they would probably interest other Slack users - so I span them out into Slack Slash Commands as a Service.  What's interesting about SSCaaS is that it's written in Go, even though the original slash commands were Python functions running under Flask.
+We use Slack at Onespacemedia, it's awesome, [it's changed the way we communicate](/words/2015/05/14/how-we-use-slack-at-onespacemedia/) and over time we've extended its functionality with various slash commands.  Originally these slash commands ran on a small server in my house, but I realised that they would probably interest other Slack users - so I span them out into Slack Slash Commands as a Service.  What's interesting about SSCaaS is that it's written in Go, even though the original slash commands were Python functions running under Flask.
 
 ### Devoweled
 
-[Github](https://github.com/DanFinchUK/devoweled) - [Website](http://devoweled.posix.me/)
+[Github](https://github.com/DanFinchUK/devoweled) - [Website](https://danfinchuk.github.io/devoweled/)
 
 A deceptively simple game - you're given some consonants and you simply have to add vowels to create words.  This is mostly a front-end project, with most of the logic written in Javascript.  The majority of the application is character binds on the main input on the site with different character codes performing different actions (such as starting a new game, getting hints etc).
 
 ### Bowler for Ebola
 
-[Github](https://github.com/DanFinchUK/bowler-for-ebola) - [Website](http://www.bowlerforebola.com/)
+[Github](https://github.com/DanFinchUK/bowler-for-ebola)
 
 A chain of events on Facebook lead to Bowler for Ebola coming into existence.  The original idea was for people to wear a bowler hat, take a photo and post it on Facebook as a way of raising awareness of the Ebola epidemic in Africa.  I decided to take it a step further and build a website which, using facial recognition, would detect faces in uploaded photos and place a bowler hat on their head.  After a couple of hours of playing with OpenCV I managed to get it working with a reasonable success rate.
 
 ### Cineworld ratings
 
-[Github](https://github.com/DanFinchUK/cineworld-ratings) - [Website](https://chrome.google.com/webstore/detail/cineworld-ratings/lbdmlofdbehjhbdabnhjgplojmgnnhkc?authuser=1)
+[Github](https://github.com/DanFinchUK/cineworld-ratings) - [Archived Chrome Web Store](https://web.archive.org/web/20221203081057/https://chrome.google.com/webstore/detail/cineworld-ratings/lbdmlofdbehjhbdabnhjgplojmgnnhkc)
 
 This Chrome extension was built to scratch a personal itch - I wanted to be able to see how good the films currently playing at Cineworld were, based on Rotten Tomato ratings.  The extension makes use of the Rotten Tomatos API to pull in the ratings and displays them inline on the page, next to the film titles.
 
 ### Chrome Foundation
 
-[Github](https://github.com/DanFinchUK/chrome-foundation) - [Website](https://chrome.google.com/webstore/detail/foundation-overlay/odknmbgidnpnihgllkebklpekefphpbn?authuser=1)
+[Github](https://github.com/DanFinchUK/chrome-foundation) - [Archived Chrome Web Store](https://web.archive.org/web/20220629051403/https://chrome.google.com/webstore/detail/foundation-overlay/odknmbgidnpnihgllkebklpekefphpbn)
 
 Originally a Chrome extension for users of the Bootstrap framework, I forked the repository and made it work with Zurb's Foundation framework.  It's a simple extension which overlays the Foundation grid on top of the page you're viewing, making use of the column classes which exist on the page.
 
