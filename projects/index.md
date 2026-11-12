@@ -20,7 +20,7 @@ My first foray into the new world of "vibe coding". I used Replit for this and d
 An incremental game written in VueJS 2 and VueX 2.  I got an itch to make an incremental after playing [Egg, Inc.](https://play.google.com/store/apps/details?id=com.auxbrain.egginc&hl=en) and spent a weekend putting it together.
 
 ### Rocket League Replays
-[Github](https://github.com/DanFinchUK/rocket-league-replays) - [Archived Website](https://web.archive.org/web/20190118212755/https://www.rocketleaguereplays.com/)
+[Github](https://github.com/DanFinchUK/rocket-league-replays) - [Archived Website](https://web.archive.org/web/20180223061320/http://www.rocketleaguereplays.com/replays/)
 
 I wrote a custom binary file parser for the Rocket League replay format and then created a database and analysis tool to store all of the information.
 
