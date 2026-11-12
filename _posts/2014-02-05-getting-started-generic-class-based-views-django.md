@@ -11,7 +11,7 @@ Before we start, there are a few things you’ll need to be able to follow along
 * A database of some sort.
 * Django configured to work with said database.
 
-If you don’t have time to read the whole article, you can find the finished code here: <https://github.com/danielsamuels/gcbv-article>
+If you don’t have time to read the whole article, you can find the finished code here: <https://github.com/DanFinchUK/gcbv-article>
 
 * * *
 

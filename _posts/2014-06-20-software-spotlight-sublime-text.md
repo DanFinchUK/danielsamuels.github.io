@@ -34,7 +34,7 @@ work from.
 #### Config
 
 So, [here’s my
-config](https://gist.github.com/danielsamuels/53ebcb34d4e9a7b4742f).
+config](https://gist.github.com/DanFinchUK/53ebcb34d4e9a7b4742f).
 
 There’s one thing I haven’t been able to change since switching from Textmate
 and that’s the Blackboard theme - I adore it and I don’t expect to ever change
